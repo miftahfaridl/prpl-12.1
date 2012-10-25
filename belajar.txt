@@ -1,1 +1,2 @@
-Ini Github pertamaku
+Ini Github pertamaku.
+Tentunya sangat memudahkan untuk management files.
